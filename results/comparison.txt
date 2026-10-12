@@ -1,0 +1,10 @@
+check                                  A_end  A_end_noseek       A_front        B_tags    B_tags_end     C_unknown
+chrome 154.0.8037.98                    0/10          0/10          0/10           0/8          0/10          7/10
+chromium 156.0.8078.4                   0/10          0/10          0/10           0/8          0/10          7/10
+firefox 157.0                           0/10          0/10          0/10           0/8          0/10          0/10
+webkit 27.2                             0/10          0/10         10/10           0/8          0/10          0/10
+Safari 26.6.2                           0/10          0/10          9/10             -          0/10             -
+VLC 3.0.24                              0/16          0/16          0/16             -          0/16         12/16
+ffmpeg probe+decode                     0/10           0/8           0/8           0/6           0/9           0/8
+mkvinfo / mkvmerge -J                   0/14          0/14          0/14          0/14          0/14         14/14
+mkvalidator (new messages)             22/24         24/24         22/24          0/22         22/24         24/24

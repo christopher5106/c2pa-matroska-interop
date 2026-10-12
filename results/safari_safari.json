@@ -1,0 +1,1711 @@
+{
+ "mode": "safari",
+ "version": {
+  "browserVersion": "26.6.2",
+  "platformVersion": "26.7.1",
+  "build": "25G241",
+  "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.6.2 Safari/605.1.15"
+ },
+ "files": {
+  "ffx_vp9_opus.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.7204854999740646,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 1,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [
+     [
+      0.005,
+      10.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.2731778350008383,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError": null
+   }
+  },
+  "ffx_vp9_opus__A_end.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.746274796672319,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 1,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [
+     [
+      0.005,
+      10.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.2837692106453034,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError": null
+   }
+  },
+  "ffx_vp9_opus__A_end_noseek.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.749187579322324,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 1,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [
+     [
+      0.005,
+      10.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.2799526566583643,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError": null
+   }
+  },
+  "ffx_vp9_opus__B_tags_end.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.749032357975089,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 1,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [
+     [
+      0.005,
+      10.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.2799147006655764,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError": null
+   }
+  },
+  "ffx_vp9_opus__A_front.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 0,
+    "w": 320,
+    "h": 240,
+    "play": "rejected: play() timeout",
+    "t_after_play": 0,
+    "seeked": "seeked",
+    "t_after_seek": 0,
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 1,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [],
+    "readyState": "open",
+    "play": "rejected: play() timeout",
+    "t_after_play": 0,
+    "seeked": "timeout",
+    "t_after_seek": 0,
+    "elError": null
+   }
+  },
+  "ffx_vp9_opus_cf.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.694437499290767,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 1,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [
+     [
+      0.005,
+      10.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.2912688360011548,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError": null
+   }
+  },
+  "ffx_vp9_opus_cf__A_end.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 0,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.7525531503304523,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 1,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [
+     [
+      0.005,
+      10.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.2821844480053384,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError": null
+   }
+  },
+  "ffx_vp9_opus_cf__A_end_noseek.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 0,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.7491815736493677,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 1,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [
+     [
+      0.005,
+      10.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.2758588223296514,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError": null
+   }
+  },
+  "ffx_vp9_opus_cf__B_tags_end.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 0,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.7437919087202898,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 1,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [
+     [
+      0.005,
+      10.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.2844994496611246,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError": null
+   }
+  },
+  "ffx_vp9_opus_cf__A_front.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 0,
+    "w": 320,
+    "h": 240,
+    "play": "rejected: play() timeout",
+    "t_after_play": 0,
+    "seeked": "seeked",
+    "t_after_seek": 0,
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 1,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [],
+    "readyState": "open",
+    "play": "rejected: play() timeout",
+    "t_after_play": 0,
+    "seeked": "timeout",
+    "t_after_seek": 0,
+    "elError": null
+   }
+  },
+  "ffx_2audio.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.6932960003623596,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 1,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [
+     [
+      0.005,
+      10.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.2333425373710134,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError": null
+   }
+  },
+  "ffx_2audio__A_end.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 0,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.7822594623269357,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 1,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [
+     [
+      0.005,
+      10.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.2461985437023786,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError": null
+   }
+  },
+  "ffx_2audio__A_end_noseek.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.7886929233518318,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 1,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [
+     [
+      0.005,
+      10.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.2501214689977984,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError": null
+   }
+  },
+  "ffx_2audio__B_tags_end.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.7885211366314007,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 1,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [
+     [
+      0.005,
+      10.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.2461900043837055,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError": null
+   }
+  },
+  "ffx_2audio__A_front.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 0,
+    "w": 320,
+    "h": 240,
+    "play": "rejected: play() timeout",
+    "t_after_play": 0,
+    "seeked": "seeked",
+    "t_after_seek": 0,
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 1,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [],
+    "readyState": "open",
+    "play": "rejected: play() timeout",
+    "t_after_play": 0,
+    "seeked": "timeout",
+    "t_after_seek": 0,
+    "elError": null
+   }
+  },
+  "vp9_alpha.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 2.0006616256847316,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "alpha": {
+     "left_mid": [
+      139,
+      140,
+      133,
+      255
+     ],
+     "right_bottom": [
+      70,
+      253,
+      255,
+      255
+     ]
+    },
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 1,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [
+     [
+      0,
+      10
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.5001272502908376,
+    "seeked": "seeked",
+    "t_after_seek": 7.501122583000779,
+    "elError": null
+   }
+  },
+  "vp9_alpha__A_end.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 0,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 2.00049283303824,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "alpha": {
+     "left_mid": [
+      139,
+      140,
+      133,
+      255
+     ],
+     "right_bottom": [
+      70,
+      253,
+      255,
+      255
+     ]
+    },
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 1,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [
+     [
+      0,
+      10
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.5000956256673459,
+    "seeked": "seeked",
+    "t_after_seek": 7.500949166333042,
+    "elError": null
+   }
+  },
+  "vp9_alpha__A_end_noseek.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 0,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 2.0006092923369714,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "alpha": {
+     "left_mid": [
+      139,
+      140,
+      133,
+      255
+     ],
+     "right_bottom": [
+      70,
+      253,
+      255,
+      255
+     ]
+    },
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 1,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [
+     [
+      0,
+      10
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.5001947076657665,
+    "seeked": "seeked",
+    "t_after_seek": 7.50097100031696,
+    "elError": null
+   }
+  },
+  "vp9_alpha__B_tags_end.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 0,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 2.000949041676421,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "alpha": {
+     "left_mid": [
+      139,
+      140,
+      133,
+      255
+     ],
+     "right_bottom": [
+      70,
+      253,
+      255,
+      255
+     ]
+    },
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 1,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [
+     [
+      0,
+      10
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.5007540833328068,
+    "seeked": "seeked",
+    "t_after_seek": 7.50070087503833,
+    "elError": null
+   }
+  },
+  "vp9_alpha__A_front.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 0,
+    "w": 320,
+    "h": 240,
+    "play": "rejected: play() timeout",
+    "t_after_play": 0,
+    "seeked": "seeked",
+    "t_after_seek": 0,
+    "alpha": {
+     "left_mid": [
+      0,
+      0,
+      0,
+      0
+     ],
+     "right_bottom": [
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 1,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [],
+    "readyState": "open",
+    "play": "rejected: play() timeout",
+    "t_after_play": 0,
+    "seeked": "timeout",
+    "t_after_seek": 0,
+    "elError": null
+   }
+  },
+  "av1_only.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 0,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 2.001269583632697,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 1,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [
+     [
+      0,
+      10
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.500138583007391,
+    "seeked": "seeked",
+    "t_after_seek": 7.500668041290808,
+    "elError": null
+   }
+  },
+  "av1_only__A_end.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 2.0010448340263567,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 1,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [
+     [
+      0,
+      10
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.5001704580175275,
+    "seeked": "seeked",
+    "t_after_seek": 7.500670291702896,
+    "elError": null
+   }
+  },
+  "av1_only__A_end_noseek.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 2.00089812501676,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 1,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [
+     [
+      0,
+      10
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.5008678336936352,
+    "seeked": "seeked",
+    "t_after_seek": 7.500800167348348,
+    "elError": null
+   }
+  },
+  "av1_only__B_tags_end.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 2.000242583995973,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 1,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [
+     [
+      0,
+      10
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.5011076660013298,
+    "seeked": "seeked",
+    "t_after_seek": 7.5007660833487515,
+    "elError": null
+   }
+  },
+  "av1_only__A_front.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10,
+    "w": 320,
+    "h": 240,
+    "play": "rejected: play() timeout",
+    "t_after_play": 0,
+    "seeked": "seeked",
+    "t_after_seek": 0,
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 1,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [],
+    "readyState": "open",
+    "play": "rejected: play() timeout",
+    "t_after_play": 0,
+    "seeked": "timeout",
+    "t_after_seek": 0,
+    "elError": null
+   }
+  },
+  "opus_only.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.0135,
+    "play": "ok",
+    "t_after_play": 1.6925444169756068,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 1,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [
+     [
+      0,
+      10.014
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.266336220694563,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError": null
+   }
+  },
+  "opus_only__A_end.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "play": "ok",
+    "t_after_play": 1.7389305982944774,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 1,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [
+     [
+      0,
+      10.014
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.2662054723135694,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError": null
+   }
+  },
+  "opus_only__A_end_noseek.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 0,
+    "play": "ok",
+    "t_after_play": 1.7409383399909437,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 1,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [
+     [
+      0,
+      10.014
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.267866219637972,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError": null
+   }
+  },
+  "opus_only__B_tags_end.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "play": "ok",
+    "t_after_play": 1.7404188880258722,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 1,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [
+     [
+      0,
+      10.014
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.2672494716226907,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError": null
+   }
+  },
+  "opus_only__A_front.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "play": "rejected: play() timeout",
+    "t_after_play": 0,
+    "seeked": "seeked",
+    "t_after_seek": 0,
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 1,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [],
+    "readyState": "open",
+    "play": "rejected: play() timeout",
+    "t_after_play": 0,
+    "seeked": "timeout",
+    "t_after_seek": 0,
+    "elError": null
+   }
+  },
+  "long1080_vp9_opus.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 120.008,
+    "w": 1920,
+    "h": 1080,
+    "play": "ok",
+    "t_after_play": 1.6937114166764207,
+    "seeked": "seeked",
+    "t_after_seek": 115,
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 37,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [
+     [
+      0.005,
+      120.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.297911371025425,
+    "seeked": "seeked",
+    "t_after_seek": 115,
+    "elError": null
+   }
+  },
+  "long1080_vp9_opus__A_end.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 120.008,
+    "w": 1920,
+    "h": 1080,
+    "play": "ok",
+    "t_after_play": 1.777440982336778,
+    "seeked": "seeked",
+    "t_after_seek": 115,
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 37,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [
+     [
+      0.005,
+      120.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.295049975666869,
+    "seeked": "seeked",
+    "t_after_seek": 115,
+    "elError": null
+   }
+  },
+  "long1080_vp9_opus__A_end_noseek.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 120.008,
+    "w": 1920,
+    "h": 1080,
+    "play": "ok",
+    "t_after_play": 1.7871743536677707,
+    "seeked": "seeked",
+    "t_after_seek": 115,
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 37,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [
+     [
+      0.005,
+      120.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.2901535419986963,
+    "seeked": "seeked",
+    "t_after_seek": 115,
+    "elError": null
+   }
+  },
+  "long1080_vp9_opus__B_tags_end.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 120.008,
+    "w": 1920,
+    "h": 1080,
+    "play": "ok",
+    "t_after_play": 1.7876814580426472,
+    "seeked": "seeked",
+    "t_after_seek": 115,
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 37,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [
+     [
+      0.005,
+      120.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.3776949199896846,
+    "seeked": "seeked",
+    "t_after_seek": 115,
+    "elError": null
+   }
+  },
+  "long1080_vp9_opus__A_front.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 120.008,
+    "w": 1920,
+    "h": 1080,
+    "play": "rejected: play() timeout",
+    "t_after_play": 0,
+    "seeked": "seeked",
+    "t_after_seek": 0,
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 37,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [],
+    "readyState": "open",
+    "play": "rejected: play() timeout",
+    "t_after_play": 0,
+    "seeked": "timeout",
+    "t_after_seek": 0,
+    "elError": null
+   }
+  },
+  "mr_vp8_opusF.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": null,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.7998209583288691,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 1,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [
+     [
+      0.062,
+      10.019
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.2847775503677985,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError": null
+   }
+  },
+  "mr_vp8_opusF__A_end.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 0,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.8443493293050237,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 1,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [
+     [
+      0.062,
+      10.019
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.3834644986680946,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError": null
+   }
+  },
+  "mr_vp8_opusF__A_end_noseek.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": null,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.7490046229689982,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 1,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [
+     [
+      0.062,
+      10.019
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.3773027919889844,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError": null
+   }
+  },
+  "mr_vp8_opusF__B_tags_end.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": null,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.7891377927059213,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 1,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [
+     [
+      0.062,
+      10.019
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.3191381696738764,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError": null
+   }
+  },
+  "mr_vp8_opusF__A_front.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": null,
+    "w": 320,
+    "h": 240,
+    "play": "rejected: play() timeout",
+    "t_after_play": 0,
+    "seeked": "seeked",
+    "t_after_seek": 0,
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 1,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [],
+    "readyState": "open",
+    "play": "rejected: play() timeout",
+    "t_after_play": 0,
+    "seeked": "timeout",
+    "t_after_seek": 0,
+    "elError": null
+   }
+  },
+  "mr_vp9_opusF.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": null,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.8099128326625291,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 1,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [
+     [
+      0.014,
+      9.952
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.2227032006391976,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError": null
+   }
+  },
+  "mr_vp9_opusF__A_end.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": null,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.8272457946780263,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 1,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [
+     [
+      0.014,
+      9.952
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.2876752979854564,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError": null
+   }
+  },
+  "mr_vp9_opusF__A_end_noseek.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": null,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.8455740470295043,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 1,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [
+     [
+      0.014,
+      9.952
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.3931615629813923,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError": null
+   }
+  },
+  "mr_vp9_opusF__B_tags_end.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 0,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.810701053977257,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 1,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [
+     [
+      0.014,
+      9.952
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.2902199633327658,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError": null
+   }
+  },
+  "mr_vp9_opusF__A_front.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": null,
+    "w": 320,
+    "h": 240,
+    "play": "rejected: play() timeout",
+    "t_after_play": 0,
+    "seeked": "seeked",
+    "t_after_seek": 0,
+    "error": null
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": true,
+    "chunks": 1,
+    "quota": null,
+    "append": "updateend",
+    "sbErr": null,
+    "buffered": [],
+    "readyState": "open",
+    "play": "rejected: play() timeout",
+    "t_after_play": 0,
+    "seeked": "timeout",
+    "t_after_seek": 0,
+    "elError": null
+   }
+  },
+  "h264_aac.mkv": {
+   "el": {
+    "canPlayType": "",
+    "events": [],
+    "loadedmetadata": "error",
+    "error": "MediaError code=4 msg=\"\""
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": false
+   }
+  },
+  "h264_aac__A_end.mkv": {
+   "el": {
+    "canPlayType": "",
+    "events": [],
+    "loadedmetadata": "error",
+    "error": "MediaError code=4 msg=\"\""
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": false
+   }
+  },
+  "h264_aac__A_end_noseek.mkv": {
+   "el": {
+    "canPlayType": "",
+    "events": [],
+    "loadedmetadata": "error",
+    "error": "MediaError code=4 msg=\"\""
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": false
+   }
+  },
+  "h264_aac__B_tags_end.mkv": {
+   "el": {
+    "canPlayType": "",
+    "events": [],
+    "loadedmetadata": "error",
+    "error": "MediaError code=4 msg=\"\""
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": false
+   }
+  },
+  "h264_aac__A_front.mkv": {
+   "el": {
+    "canPlayType": "",
+    "events": [],
+    "loadedmetadata": "error",
+    "error": "MediaError code=4 msg=\"\""
+   },
+   "mse": {
+    "api": "MediaSource",
+    "hasMMS": true,
+    "isTypeSupported": false
+   }
+  }
+ }
+}

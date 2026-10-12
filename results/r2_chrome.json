@@ -1,0 +1,3003 @@
+{
+ "browser": "chrome",
+ "version": "154.0.8037.98",
+ "files": {
+  "ffx_2audio.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.96005,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      10.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.458513,
+    "seeked": "seeked",
+    "t_after_seek": 7.500035,
+    "elError2": null
+   },
+   "medialog": []
+  },
+  "ffx_2audio__A_end.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.960105,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      10.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.457371,
+    "seeked": "seeked",
+    "t_after_seek": 7.500155,
+    "elError2": null
+   },
+   "medialog": []
+  },
+  "ffx_2audio__A_end_noseek.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.963341,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      10.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.454882,
+    "seeked": "seeked",
+    "t_after_seek": 7.500061,
+    "elError2": null
+   },
+   "medialog": []
+  },
+  "ffx_2audio__A_front.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.964333,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      10.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.456838,
+    "seeked": "seeked",
+    "t_after_seek": 7.500078,
+    "elError2": null
+   },
+   "medialog": []
+  },
+  "ffx_2audio__B_tags.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.960028,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      10.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.454326,
+    "seeked": "seeked",
+    "t_after_seek": 7.500048,
+    "elError2": null
+   },
+   "medialog": []
+  },
+  "ffx_2audio__B_tags_end.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.960018,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      10.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.455664,
+    "seeked": "seeked",
+    "t_after_seek": 7.500015,
+    "elError2": null
+   },
+   "medialog": []
+  },
+  "ffx_2audio__C_unknown.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.961275,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "error",
+    "sbErr": "SourceBuffer error event",
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      10.005
+     ]
+    ],
+    "readyState": "ended",
+    "play": "rejected: The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22",
+    "t_after_play": 0,
+    "seeked": "timeout",
+    "t_after_seek": 7.5,
+    "elError2": "MediaError code=3 msg=\"PipelineStatus::CHUNK_DEMUXER_ERROR_APPEND_FAILED: Unexpected element ID 0x1c2b5041\""
+   },
+   "medialog": [
+    "error: Unexpected element ID 0x1c2b5041",
+    "error: RunSegmentParserLoop: stream parsing failed. append_window_start=0 append_window_end=inf"
+   ]
+  },
+  "ffx_2audio__D_void.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.961645,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      10.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.45841,
+    "seeked": "seeked",
+    "t_after_seek": 7.500085,
+    "elError2": null
+   },
+   "medialog": []
+  },
+  "ffx_multi.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.964751,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "error",
+    "sbErr": "SourceBuffer error event",
+    "elError": null,
+    "buffered": [],
+    "readyState": "ended",
+    "play": "rejected: The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22",
+    "t_after_play": 0,
+    "seeked": "timeout",
+    "t_after_seek": 7.5,
+    "elError2": "MediaError code=3 msg=\"PipelineStatus::CHUNK_DEMUXER_ERROR_APPEND_FAILED: Got a block with a timecode before the previous block.\""
+   },
+   "medialog": [
+    "error: Got a block with a timecode before the previous block.",
+    "error: RunSegmentParserLoop: stream parsing failed. append_window_start=0 append_window_end=inf"
+   ]
+  },
+  "ffx_multi__A_end.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.960152,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "error",
+    "sbErr": "SourceBuffer error event",
+    "elError": null,
+    "buffered": [],
+    "readyState": "ended",
+    "play": "rejected: The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22",
+    "t_after_play": 0,
+    "seeked": "timeout",
+    "t_after_seek": 7.5,
+    "elError2": "MediaError code=3 msg=\"PipelineStatus::CHUNK_DEMUXER_ERROR_APPEND_FAILED: Got a block with a timecode before the previous block.\""
+   },
+   "medialog": [
+    "error: Got a block with a timecode before the previous block.",
+    "error: RunSegmentParserLoop: stream parsing failed. append_window_start=0 append_window_end=inf"
+   ]
+  },
+  "ffx_multi__A_end_noseek.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.965069,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "error",
+    "sbErr": "SourceBuffer error event",
+    "elError": null,
+    "buffered": [],
+    "readyState": "ended",
+    "play": "rejected: The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22",
+    "t_after_play": 0,
+    "seeked": "timeout",
+    "t_after_seek": 7.5,
+    "elError2": "MediaError code=3 msg=\"PipelineStatus::CHUNK_DEMUXER_ERROR_APPEND_FAILED: Got a block with a timecode before the previous block.\""
+   },
+   "medialog": [
+    "error: Got a block with a timecode before the previous block.",
+    "error: RunSegmentParserLoop: stream parsing failed. append_window_start=0 append_window_end=inf"
+   ]
+  },
+  "ffx_multi__A_front.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.960084,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "error",
+    "sbErr": "SourceBuffer error event",
+    "elError": null,
+    "buffered": [],
+    "readyState": "ended",
+    "play": "rejected: The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22",
+    "t_after_play": 0,
+    "seeked": "timeout",
+    "t_after_seek": 7.5,
+    "elError2": "MediaError code=3 msg=\"PipelineStatus::CHUNK_DEMUXER_ERROR_APPEND_FAILED: Got a block with a timecode before the previous block.\""
+   },
+   "medialog": [
+    "error: Got a block with a timecode before the previous block.",
+    "error: RunSegmentParserLoop: stream parsing failed. append_window_start=0 append_window_end=inf"
+   ]
+  },
+  "ffx_multi__B_tags.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.960231,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "error",
+    "sbErr": "SourceBuffer error event",
+    "elError": null,
+    "buffered": [],
+    "readyState": "ended",
+    "play": "rejected: The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22",
+    "t_after_play": 0,
+    "seeked": "timeout",
+    "t_after_seek": 7.5,
+    "elError2": "MediaError code=3 msg=\"PipelineStatus::CHUNK_DEMUXER_ERROR_APPEND_FAILED: Got a block with a timecode before the previous block.\""
+   },
+   "medialog": [
+    "error: Got a block with a timecode before the previous block.",
+    "error: RunSegmentParserLoop: stream parsing failed. append_window_start=0 append_window_end=inf"
+   ]
+  },
+  "ffx_multi__B_tags_end.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.960099,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "error",
+    "sbErr": "SourceBuffer error event",
+    "elError": null,
+    "buffered": [],
+    "readyState": "ended",
+    "play": "rejected: The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22",
+    "t_after_play": 0,
+    "seeked": "timeout",
+    "t_after_seek": 7.5,
+    "elError2": "MediaError code=3 msg=\"PipelineStatus::CHUNK_DEMUXER_ERROR_APPEND_FAILED: Got a block with a timecode before the previous block.\""
+   },
+   "medialog": [
+    "error: Got a block with a timecode before the previous block.",
+    "error: RunSegmentParserLoop: stream parsing failed. append_window_start=0 append_window_end=inf"
+   ]
+  },
+  "ffx_multi__C_unknown.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.96067,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "error",
+    "sbErr": "SourceBuffer error event",
+    "elError": null,
+    "buffered": [],
+    "readyState": "ended",
+    "play": "rejected: The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22",
+    "t_after_play": 0,
+    "seeked": "timeout",
+    "t_after_seek": 7.5,
+    "elError2": "MediaError code=3 msg=\"PipelineStatus::CHUNK_DEMUXER_ERROR_APPEND_FAILED: Got a block with a timecode before the previous block.\""
+   },
+   "medialog": [
+    "error: Got a block with a timecode before the previous block.",
+    "error: RunSegmentParserLoop: stream parsing failed. append_window_start=0 append_window_end=inf"
+   ]
+  },
+  "ffx_multi__D_void.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.960325,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "error",
+    "sbErr": "SourceBuffer error event",
+    "elError": null,
+    "buffered": [],
+    "readyState": "ended",
+    "play": "rejected: The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22",
+    "t_after_play": 0,
+    "seeked": "timeout",
+    "t_after_seek": 7.5,
+    "elError2": "MediaError code=3 msg=\"PipelineStatus::CHUNK_DEMUXER_ERROR_APPEND_FAILED: Got a block with a timecode before the previous block.\""
+   },
+   "medialog": [
+    "error: Got a block with a timecode before the previous block.",
+    "error: RunSegmentParserLoop: stream parsing failed. append_window_start=0 append_window_end=inf"
+   ]
+  },
+  "ffx_vp9_opus.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.960091,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      10.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.455432,
+    "seeked": "seeked",
+    "t_after_seek": 7.500081,
+    "elError2": null
+   },
+   "medialog": []
+  },
+  "ffx_vp9_opus__A_end.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.962766,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      10.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.456272,
+    "seeked": "seeked",
+    "t_after_seek": 7.500106,
+    "elError2": null
+   },
+   "medialog": []
+  },
+  "ffx_vp9_opus__A_end_noseek.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.964016,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      10.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.457987,
+    "seeked": "seeked",
+    "t_after_seek": 7.50006,
+    "elError2": null
+   },
+   "medialog": []
+  },
+  "ffx_vp9_opus__A_front.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.963281,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      10.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.454145,
+    "seeked": "seeked",
+    "t_after_seek": 7.500106,
+    "elError2": null
+   },
+   "medialog": []
+  },
+  "ffx_vp9_opus__B_tags.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.963974,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      10.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.45552,
+    "seeked": "seeked",
+    "t_after_seek": 7.500061,
+    "elError2": null
+   },
+   "medialog": []
+  },
+  "ffx_vp9_opus__B_tags_end.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.96053,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      10.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.454355,
+    "seeked": "seeked",
+    "t_after_seek": 7.500109,
+    "elError2": null
+   },
+   "medialog": []
+  },
+  "ffx_vp9_opus__C_unknown.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.96006,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "error",
+    "sbErr": "SourceBuffer error event",
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      10.005
+     ]
+    ],
+    "readyState": "ended",
+    "play": "rejected: The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22",
+    "t_after_play": 0,
+    "seeked": "timeout",
+    "t_after_seek": 7.5,
+    "elError2": "MediaError code=3 msg=\"PipelineStatus::CHUNK_DEMUXER_ERROR_APPEND_FAILED: Unexpected element ID 0x1c2b5041\""
+   },
+   "medialog": [
+    "error: Unexpected element ID 0x1c2b5041",
+    "error: RunSegmentParserLoop: stream parsing failed. append_window_start=0 append_window_end=inf"
+   ]
+  },
+  "ffx_vp9_opus__D_void.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.96002,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      10.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.456829,
+    "seeked": "seeked",
+    "t_after_seek": 7.50014,
+    "elError2": null
+   },
+   "medialog": []
+  },
+  "ffx_vp9_opus_cf.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.96386,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      10.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.458448,
+    "seeked": "seeked",
+    "t_after_seek": 7.50007,
+    "elError2": null
+   },
+   "medialog": []
+  },
+  "ffx_vp9_opus_cf__A_end.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.963037,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      10.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.453706,
+    "seeked": "seeked",
+    "t_after_seek": 7.500042,
+    "elError2": null
+   },
+   "medialog": []
+  },
+  "ffx_vp9_opus_cf__A_end_noseek.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.963925,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      10.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.453932,
+    "seeked": "seeked",
+    "t_after_seek": 7.500096,
+    "elError2": null
+   },
+   "medialog": []
+  },
+  "ffx_vp9_opus_cf__A_front.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.962872,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      10.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.45514,
+    "seeked": "seeked",
+    "t_after_seek": 7.500137,
+    "elError2": null
+   },
+   "medialog": []
+  },
+  "ffx_vp9_opus_cf__B_tags.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.963416,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      10.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.453268,
+    "seeked": "seeked",
+    "t_after_seek": 7.500053,
+    "elError2": null
+   },
+   "medialog": []
+  },
+  "ffx_vp9_opus_cf__B_tags_end.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.960032,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      10.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.458035,
+    "seeked": "seeked",
+    "t_after_seek": 7.500084,
+    "elError2": null
+   },
+   "medialog": []
+  },
+  "ffx_vp9_opus_cf__C_unknown.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.965094,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "error",
+    "sbErr": "SourceBuffer error event",
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      10.005
+     ]
+    ],
+    "readyState": "ended",
+    "play": "rejected: The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22",
+    "t_after_play": 0,
+    "seeked": "timeout",
+    "t_after_seek": 7.5,
+    "elError2": "MediaError code=3 msg=\"PipelineStatus::CHUNK_DEMUXER_ERROR_APPEND_FAILED: Unexpected element ID 0x1c2b5041\""
+   },
+   "medialog": [
+    "error: Unexpected element ID 0x1c2b5041",
+    "error: RunSegmentParserLoop: stream parsing failed. append_window_start=0 append_window_end=inf"
+   ]
+  },
+  "ffx_vp9_opus_cf__D_void.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.960094,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      10.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.452437,
+    "seeked": "seeked",
+    "t_after_seek": 7.500071,
+    "elError2": null
+   },
+   "medialog": []
+  },
+  "long1080_vp9_opus.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 120.008,
+    "w": 1920,
+    "h": 1080,
+    "play": "ok",
+    "t_after_play": 1.960065,
+    "seeked": "seeked",
+    "t_after_seek": 115,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      120.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.457543,
+    "seeked": "seeked",
+    "t_after_seek": 115.000107,
+    "elError2": null
+   },
+   "medialog": []
+  },
+  "long1080_vp9_opus__A_end.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 120.008,
+    "w": 1920,
+    "h": 1080,
+    "play": "ok",
+    "t_after_play": 1.960017,
+    "seeked": "seeked",
+    "t_after_seek": 115,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      120.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.456801,
+    "seeked": "seeked",
+    "t_after_seek": 115.000095,
+    "elError2": null
+   },
+   "medialog": []
+  },
+  "long1080_vp9_opus__A_end_300k.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 120.008,
+    "w": 1920,
+    "h": 1080,
+    "play": "ok",
+    "t_after_play": 1.96002,
+    "seeked": "seeked",
+    "t_after_seek": 115,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      120.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.457202,
+    "seeked": "seeked",
+    "t_after_seek": 115.000095,
+    "elError2": null
+   },
+   "medialog": []
+  },
+  "long1080_vp9_opus__A_end_noseek.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 120.008,
+    "w": 1920,
+    "h": 1080,
+    "play": "ok",
+    "t_after_play": 1.960056,
+    "seeked": "seeked",
+    "t_after_seek": 115,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      120.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.459651,
+    "seeked": "seeked",
+    "t_after_seek": 115.000096,
+    "elError2": null
+   },
+   "medialog": []
+  },
+  "long1080_vp9_opus__A_end_noseek_300k.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 120.008,
+    "w": 1920,
+    "h": 1080,
+    "play": "ok",
+    "t_after_play": 1.963914,
+    "seeked": "seeked",
+    "t_after_seek": 115,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      120.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.456865,
+    "seeked": "seeked",
+    "t_after_seek": 115.00009,
+    "elError2": null
+   },
+   "medialog": []
+  },
+  "long1080_vp9_opus__A_front.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 120.008,
+    "w": 1920,
+    "h": 1080,
+    "play": "ok",
+    "t_after_play": 1.960063,
+    "seeked": "seeked",
+    "t_after_seek": 115,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      120.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.457452,
+    "seeked": "seeked",
+    "t_after_seek": 115.000112,
+    "elError2": null
+   },
+   "medialog": []
+  },
+  "long1080_vp9_opus__A_front_300k.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 120.008,
+    "w": 1920,
+    "h": 1080,
+    "play": "ok",
+    "t_after_play": 1.962045,
+    "seeked": "seeked",
+    "t_after_seek": 115,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      120.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.458184,
+    "seeked": "seeked",
+    "t_after_seek": 115.000105,
+    "elError2": null
+   },
+   "medialog": []
+  },
+  "long1080_vp9_opus__B_tags.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 120.008,
+    "w": 1920,
+    "h": 1080,
+    "play": "ok",
+    "t_after_play": 1.961182,
+    "seeked": "seeked",
+    "t_after_seek": 115,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      120.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.459626,
+    "seeked": "seeked",
+    "t_after_seek": 115.000095,
+    "elError2": null
+   },
+   "medialog": []
+  },
+  "long1080_vp9_opus__B_tags_300k.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 120.008,
+    "w": 1920,
+    "h": 1080,
+    "play": "ok",
+    "t_after_play": 1.964111,
+    "seeked": "seeked",
+    "t_after_seek": 115,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      120.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.456773,
+    "seeked": "seeked",
+    "t_after_seek": 115.000111,
+    "elError2": null
+   },
+   "medialog": []
+  },
+  "long1080_vp9_opus__B_tags_end.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 120.008,
+    "w": 1920,
+    "h": 1080,
+    "play": "ok",
+    "t_after_play": 1.960016,
+    "seeked": "seeked",
+    "t_after_seek": 115,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      120.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.45808,
+    "seeked": "seeked",
+    "t_after_seek": 115.000066,
+    "elError2": null
+   },
+   "medialog": []
+  },
+  "long1080_vp9_opus__B_tags_end_300k.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 120.008,
+    "w": 1920,
+    "h": 1080,
+    "play": "ok",
+    "t_after_play": 1.960034,
+    "seeked": "seeked",
+    "t_after_seek": 115,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      120.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.458515,
+    "seeked": "seeked",
+    "t_after_seek": 115.000059,
+    "elError2": null
+   },
+   "medialog": []
+  },
+  "long1080_vp9_opus__C_unknown.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 120.008,
+    "w": 1920,
+    "h": 1080,
+    "play": "ok",
+    "t_after_play": 1.963985,
+    "seeked": "seeked",
+    "t_after_seek": 115,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "error",
+    "sbErr": "SourceBuffer error event",
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      120.005
+     ]
+    ],
+    "readyState": "ended",
+    "play": "rejected: The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22",
+    "t_after_play": 0.000054,
+    "seeked": "timeout",
+    "t_after_seek": 115,
+    "elError2": "MediaError code=3 msg=\"PipelineStatus::CHUNK_DEMUXER_ERROR_APPEND_FAILED: Unexpected element ID 0x1c2b5041\""
+   },
+   "medialog": [
+    "error: Unexpected element ID 0x1c2b5041",
+    "error: RunSegmentParserLoop: stream parsing failed. append_window_start=0 append_window_end=inf"
+   ]
+  },
+  "long1080_vp9_opus__C_unknown_300k.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 120.008,
+    "w": 1920,
+    "h": 1080,
+    "play": "ok",
+    "t_after_play": 1.960019,
+    "seeked": "seeked",
+    "t_after_seek": 115,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "error",
+    "sbErr": "SourceBuffer error event",
+    "elError": "MediaError code=3 msg=\"PipelineStatus::CHUNK_DEMUXER_ERROR_APPEND_FAILED: Unexpected element ID 0x1c2b5041\"",
+    "buffered": [
+     [
+      0,
+      120.005
+     ]
+    ],
+    "readyState": "ended",
+    "play": "rejected: The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22",
+    "t_after_play": 0,
+    "seeked": "timeout",
+    "t_after_seek": 115,
+    "elError2": "MediaError code=3 msg=\"PipelineStatus::CHUNK_DEMUXER_ERROR_APPEND_FAILED: Unexpected element ID 0x1c2b5041\""
+   },
+   "medialog": [
+    "error: Unexpected element ID 0x1c2b5041",
+    "error: RunSegmentParserLoop: stream parsing failed. append_window_start=0 append_window_end=inf"
+   ]
+  },
+  "long1080_vp9_opus__D_void.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 120.008,
+    "w": 1920,
+    "h": 1080,
+    "play": "ok",
+    "t_after_play": 1.960035,
+    "seeked": "seeked",
+    "t_after_seek": 115,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      120.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.456979,
+    "seeked": "seeked",
+    "t_after_seek": 115.000113,
+    "elError2": null
+   },
+   "medialog": []
+  },
+  "long1080_vp9_opus__D_void_300k.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 120.008,
+    "w": 1920,
+    "h": 1080,
+    "play": "ok",
+    "t_after_play": 1.961406,
+    "seeked": "seeked",
+    "t_after_seek": 115,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      120.005
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.457826,
+    "seeked": "seeked",
+    "t_after_seek": 115.000186,
+    "elError2": null
+   },
+   "medialog": []
+  },
+  "mm_vp9_opus.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.960029,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "error",
+    "sbErr": "SourceBuffer error event",
+    "elError": null,
+    "buffered": [],
+    "readyState": "ended",
+    "play": "rejected: Failed to load because no supported source was found.",
+    "t_after_play": 0,
+    "seeked": "timeout",
+    "t_after_seek": 7.5,
+    "elError2": "MediaError code=4 msg=\"PipelineStatus::CHUNK_DEMUXER_ERROR_APPEND_FAILED: RunSegmentParserLoop: stream parsing failed. append_window_start=0 append_window_end=inf\""
+   },
+   "medialog": [
+    "error: RunSegmentParserLoop: stream parsing failed. append_window_start=0 append_window_end=inf"
+   ]
+  },
+  "mm_vp9_opus__A_end.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.963461,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "error",
+    "sbErr": "SourceBuffer error event",
+    "elError": null,
+    "buffered": [],
+    "readyState": "ended",
+    "play": "rejected: Failed to load because no supported source was found.",
+    "t_after_play": 0,
+    "seeked": "timeout",
+    "t_after_seek": 7.5,
+    "elError2": "MediaError code=4 msg=\"PipelineStatus::CHUNK_DEMUXER_ERROR_APPEND_FAILED: RunSegmentParserLoop: stream parsing failed. append_window_start=0 append_window_end=inf\""
+   },
+   "medialog": [
+    "error: RunSegmentParserLoop: stream parsing failed. append_window_start=0 append_window_end=inf"
+   ]
+  },
+  "mm_vp9_opus__A_end_noseek.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.960035,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "error",
+    "sbErr": "SourceBuffer error event",
+    "elError": null,
+    "buffered": [],
+    "readyState": "ended",
+    "play": "rejected: Failed to load because no supported source was found.",
+    "t_after_play": 0,
+    "seeked": "timeout",
+    "t_after_seek": 7.5,
+    "elError2": "MediaError code=4 msg=\"PipelineStatus::CHUNK_DEMUXER_ERROR_APPEND_FAILED: RunSegmentParserLoop: stream parsing failed. append_window_start=0 append_window_end=inf\""
+   },
+   "medialog": [
+    "error: RunSegmentParserLoop: stream parsing failed. append_window_start=0 append_window_end=inf"
+   ]
+  },
+  "mm_vp9_opus__A_front.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.962121,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "error",
+    "sbErr": "SourceBuffer error event",
+    "elError": null,
+    "buffered": [],
+    "readyState": "ended",
+    "play": "rejected: Failed to load because no supported source was found.",
+    "t_after_play": 0,
+    "seeked": "timeout",
+    "t_after_seek": 7.5,
+    "elError2": "MediaError code=4 msg=\"PipelineStatus::CHUNK_DEMUXER_ERROR_APPEND_FAILED: RunSegmentParserLoop: stream parsing failed. append_window_start=0 append_window_end=inf\""
+   },
+   "medialog": [
+    "error: RunSegmentParserLoop: stream parsing failed. append_window_start=0 append_window_end=inf"
+   ]
+  },
+  "mm_vp9_opus__B_tags.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.960022,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "error",
+    "sbErr": "SourceBuffer error event",
+    "elError": null,
+    "buffered": [],
+    "readyState": "ended",
+    "play": "rejected: Failed to load because no supported source was found.",
+    "t_after_play": 0,
+    "seeked": "timeout",
+    "t_after_seek": 7.5,
+    "elError2": "MediaError code=4 msg=\"PipelineStatus::CHUNK_DEMUXER_ERROR_APPEND_FAILED: RunSegmentParserLoop: stream parsing failed. append_window_start=0 append_window_end=inf\""
+   },
+   "medialog": [
+    "error: RunSegmentParserLoop: stream parsing failed. append_window_start=0 append_window_end=inf"
+   ]
+  },
+  "mm_vp9_opus__B_tags_end.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.960673,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "error",
+    "sbErr": "SourceBuffer error event",
+    "elError": null,
+    "buffered": [],
+    "readyState": "ended",
+    "play": "rejected: Failed to load because no supported source was found.",
+    "t_after_play": 0,
+    "seeked": "timeout",
+    "t_after_seek": 7.5,
+    "elError2": "MediaError code=4 msg=\"PipelineStatus::CHUNK_DEMUXER_ERROR_APPEND_FAILED: RunSegmentParserLoop: stream parsing failed. append_window_start=0 append_window_end=inf\""
+   },
+   "medialog": [
+    "error: RunSegmentParserLoop: stream parsing failed. append_window_start=0 append_window_end=inf"
+   ]
+  },
+  "mm_vp9_opus__C_unknown.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.960032,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "error",
+    "sbErr": "SourceBuffer error event",
+    "elError": null,
+    "buffered": [],
+    "readyState": "ended",
+    "play": "rejected: Failed to load because no supported source was found.",
+    "t_after_play": 0,
+    "seeked": "timeout",
+    "t_after_seek": 7.5,
+    "elError2": "MediaError code=4 msg=\"PipelineStatus::CHUNK_DEMUXER_ERROR_APPEND_FAILED: RunSegmentParserLoop: stream parsing failed. append_window_start=0 append_window_end=inf\""
+   },
+   "medialog": [
+    "error: RunSegmentParserLoop: stream parsing failed. append_window_start=0 append_window_end=inf"
+   ]
+  },
+  "mm_vp9_opus__D_void.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 10.008,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.960035,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "error",
+    "sbErr": "SourceBuffer error event",
+    "elError": null,
+    "buffered": [],
+    "readyState": "ended",
+    "play": "rejected: Failed to load because no supported source was found.",
+    "t_after_play": 0,
+    "seeked": "timeout",
+    "t_after_seek": 7.5,
+    "elError2": "MediaError code=4 msg=\"PipelineStatus::CHUNK_DEMUXER_ERROR_APPEND_FAILED: RunSegmentParserLoop: stream parsing failed. append_window_start=0 append_window_end=inf\""
+   },
+   "medialog": [
+    "error: RunSegmentParserLoop: stream parsing failed. append_window_start=0 append_window_end=inf"
+   ]
+  },
+  "mr_vp8_opus.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": null,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.960262,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      9.966
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.455152,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError2": null
+   },
+   "medialog": [
+    "warning: Failed to reconcile encoded audio times with decoded output."
+   ]
+  },
+  "mr_vp8_opusF.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": null,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.960024,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      10.022
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.458319,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError2": null
+   },
+   "medialog": [
+    "warning: Failed to reconcile encoded audio times with decoded output."
+   ]
+  },
+  "mr_vp8_opusF__A_end.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": null,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.965383,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      10.022
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.456657,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError2": null
+   },
+   "medialog": [
+    "warning: Failed to reconcile encoded audio times with decoded output."
+   ]
+  },
+  "mr_vp8_opusF__A_end_noseek.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": null,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.960028,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      10.022
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.459237,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError2": null
+   },
+   "medialog": [
+    "warning: Failed to reconcile encoded audio times with decoded output."
+   ]
+  },
+  "mr_vp8_opusF__A_front.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": null,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.960027,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      10.022
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.45804,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError2": null
+   },
+   "medialog": [
+    "warning: Failed to reconcile encoded audio times with decoded output."
+   ]
+  },
+  "mr_vp8_opusF__B_tags_end.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": null,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.960024,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      10.022
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.458891,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError2": null
+   },
+   "medialog": [
+    "warning: Failed to reconcile encoded audio times with decoded output."
+   ]
+  },
+  "mr_vp8_opusF__C_unknown.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": null,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.960022,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "error",
+    "sbErr": "SourceBuffer error event",
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      10.022
+     ]
+    ],
+    "readyState": "ended",
+    "play": "rejected: The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22",
+    "t_after_play": 0,
+    "seeked": "timeout",
+    "t_after_seek": 7.5,
+    "elError2": "MediaError code=3 msg=\"PipelineStatus::CHUNK_DEMUXER_ERROR_APPEND_FAILED: Unexpected element ID 0x1c2b5041\""
+   },
+   "medialog": [
+    "warning: Failed to reconcile encoded audio times with decoded output.",
+    "error: Unexpected element ID 0x1c2b5041",
+    "error: RunSegmentParserLoop: stream parsing failed. append_window_start=0 append_window_end=inf"
+   ]
+  },
+  "mr_vp8_opusF__D_void.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": null,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.960089,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      10.022
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.458029,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError2": null
+   },
+   "medialog": [
+    "warning: Failed to reconcile encoded audio times with decoded output."
+   ]
+  },
+  "mr_vp8_opus__U_A_append.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": null,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.960027,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      10.022
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.456907,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError2": null
+   },
+   "medialog": [
+    "warning: Failed to reconcile encoded audio times with decoded output."
+   ]
+  },
+  "mr_vp8_opus__U_B_append.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": null,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.960029,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      10.022
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.456442,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError2": null
+   },
+   "medialog": [
+    "warning: Failed to reconcile encoded audio times with decoded output."
+   ]
+  },
+  "mr_vp8_opus__U_C_append.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": null,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.960026,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "error",
+    "sbErr": "SourceBuffer error event",
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      9.899
+     ]
+    ],
+    "readyState": "ended",
+    "play": "rejected: The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22",
+    "t_after_play": 0,
+    "seeked": "timeout",
+    "t_after_seek": 7.5,
+    "elError2": "MediaError code=3 msg=\"PipelineStatus::CHUNK_DEMUXER_ERROR_APPEND_FAILED: RunSegmentParserLoop: stream parsing failed. append_window_start=0 append_window_end=inf\""
+   },
+   "medialog": [
+    "warning: Failed to reconcile encoded audio times with decoded output.",
+    "error: RunSegmentParserLoop: stream parsing failed. append_window_start=0 append_window_end=inf"
+   ]
+  },
+  "mr_vp9_opus.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": null,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.960059,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      9.909
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.457311,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError2": null
+   },
+   "medialog": [
+    "warning: Failed to reconcile encoded audio times with decoded output."
+   ]
+  },
+  "mr_vp9_opusF.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": null,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.960034,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      9.974
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.457698,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError2": null
+   },
+   "medialog": [
+    "warning: Failed to reconcile encoded audio times with decoded output."
+   ]
+  },
+  "mr_vp9_opusF__A_end.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": null,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.960031,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      9.974
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.456839,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError2": null
+   },
+   "medialog": [
+    "warning: Failed to reconcile encoded audio times with decoded output."
+   ]
+  },
+  "mr_vp9_opusF__A_end_noseek.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": null,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.960048,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      9.974
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.458879,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError2": null
+   },
+   "medialog": [
+    "warning: Failed to reconcile encoded audio times with decoded output."
+   ]
+  },
+  "mr_vp9_opusF__A_front.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": null,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.960033,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      9.974
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.457415,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError2": null
+   },
+   "medialog": [
+    "warning: Failed to reconcile encoded audio times with decoded output."
+   ]
+  },
+  "mr_vp9_opusF__B_tags_end.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": null,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.960027,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      9.974
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.457619,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError2": null
+   },
+   "medialog": [
+    "warning: Failed to reconcile encoded audio times with decoded output."
+   ]
+  },
+  "mr_vp9_opusF__C_unknown.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": null,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.96002,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "error",
+    "sbErr": "SourceBuffer error event",
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      9.974
+     ]
+    ],
+    "readyState": "ended",
+    "play": "rejected: The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22",
+    "t_after_play": 0,
+    "seeked": "timeout",
+    "t_after_seek": 7.5,
+    "elError2": "MediaError code=3 msg=\"PipelineStatus::CHUNK_DEMUXER_ERROR_APPEND_FAILED: Unexpected element ID 0x1c2b5041\""
+   },
+   "medialog": [
+    "warning: Failed to reconcile encoded audio times with decoded output.",
+    "error: Unexpected element ID 0x1c2b5041",
+    "error: RunSegmentParserLoop: stream parsing failed. append_window_start=0 append_window_end=inf"
+   ]
+  },
+  "mr_vp9_opusF__D_void.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": null,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.960046,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      9.974
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.457548,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError2": null
+   },
+   "medialog": [
+    "warning: Failed to reconcile encoded audio times with decoded output."
+   ]
+  },
+  "mr_vp9_opusR.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 9.974,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.960031,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      0.001
+     ],
+     [
+      0.074,
+      3.992
+     ],
+     [
+      4.031,
+      7.694
+     ]
+    ],
+    "readyState": "open",
+    "play": "rejected: play() timeout",
+    "t_after_play": 0,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError2": null
+   },
+   "medialog": [
+    "warning: Failed to reconcile encoded audio times with decoded output."
+   ]
+  },
+  "mr_vp9_opusR__A_end.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 9.974,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.960034,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      0.001
+     ],
+     [
+      0.074,
+      3.992
+     ],
+     [
+      4.031,
+      7.694
+     ]
+    ],
+    "readyState": "open",
+    "play": "rejected: play() timeout",
+    "t_after_play": 0,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError2": null
+   },
+   "medialog": [
+    "warning: Failed to reconcile encoded audio times with decoded output."
+   ]
+  },
+  "mr_vp9_opusR__A_end_noseek.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 9.974,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.960811,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      0.001
+     ],
+     [
+      0.074,
+      3.992
+     ],
+     [
+      4.031,
+      7.694
+     ]
+    ],
+    "readyState": "open",
+    "play": "rejected: play() timeout",
+    "t_after_play": 0,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError2": null
+   },
+   "medialog": [
+    "warning: Failed to reconcile encoded audio times with decoded output."
+   ]
+  },
+  "mr_vp9_opusR__A_front.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 9.974,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.960033,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      0.001
+     ],
+     [
+      0.074,
+      3.992
+     ],
+     [
+      4.031,
+      7.694
+     ]
+    ],
+    "readyState": "open",
+    "play": "rejected: play() timeout",
+    "t_after_play": 0,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError2": null
+   },
+   "medialog": [
+    "warning: Failed to reconcile encoded audio times with decoded output."
+   ]
+  },
+  "mr_vp9_opusR__B_tags.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 9.974,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.960061,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      0.001
+     ],
+     [
+      0.074,
+      3.992
+     ],
+     [
+      4.031,
+      7.694
+     ]
+    ],
+    "readyState": "open",
+    "play": "rejected: play() timeout",
+    "t_after_play": 0,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError2": null
+   },
+   "medialog": [
+    "warning: Failed to reconcile encoded audio times with decoded output."
+   ]
+  },
+  "mr_vp9_opusR__B_tags_end.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 9.974,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.960024,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      0.001
+     ],
+     [
+      0.074,
+      3.992
+     ],
+     [
+      4.031,
+      7.694
+     ]
+    ],
+    "readyState": "open",
+    "play": "rejected: play() timeout",
+    "t_after_play": 0,
+    "seeked": "seeked",
+    "t_after_seek": 7.500011,
+    "elError2": null
+   },
+   "medialog": [
+    "warning: Failed to reconcile encoded audio times with decoded output."
+   ]
+  },
+  "mr_vp9_opusR__C_unknown.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 9.974,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.960017,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "error",
+    "sbErr": "SourceBuffer error event",
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      0.001
+     ],
+     [
+      0.074,
+      3.992
+     ],
+     [
+      4.031,
+      7.694
+     ]
+    ],
+    "readyState": "ended",
+    "play": "rejected: The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22",
+    "t_after_play": 0,
+    "seeked": "timeout",
+    "t_after_seek": 7.5,
+    "elError2": "MediaError code=3 msg=\"PipelineStatus::CHUNK_DEMUXER_ERROR_APPEND_FAILED: Unexpected element ID 0x1c2b5041\""
+   },
+   "medialog": [
+    "warning: Failed to reconcile encoded audio times with decoded output.",
+    "error: Unexpected element ID 0x1c2b5041",
+    "error: RunSegmentParserLoop: stream parsing failed. append_window_start=0 append_window_end=inf"
+   ]
+  },
+  "mr_vp9_opusR__D_void.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": 9.974,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.960016,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      0.001
+     ],
+     [
+      0.074,
+      3.992
+     ],
+     [
+      4.031,
+      7.694
+     ]
+    ],
+    "readyState": "open",
+    "play": "rejected: play() timeout",
+    "t_after_play": 0,
+    "seeked": "seeked",
+    "t_after_seek": 7.500022,
+    "elError2": null
+   },
+   "medialog": [
+    "warning: Failed to reconcile encoded audio times with decoded output."
+   ]
+  },
+  "mr_vp9_opus__U_A_append.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": null,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.96226,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      9.974
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.457651,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError2": null
+   },
+   "medialog": [
+    "warning: Failed to reconcile encoded audio times with decoded output."
+   ]
+  },
+  "mr_vp9_opus__U_B_append.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": null,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.96002,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "updateend",
+    "sbErr": null,
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      9.974
+     ]
+    ],
+    "readyState": "open",
+    "play": "ok",
+    "t_after_play": 1.453804,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "elError2": null
+   },
+   "medialog": [
+    "warning: Failed to reconcile encoded audio times with decoded output."
+   ]
+  },
+  "mr_vp9_opus__U_C_append.webm": {
+   "el": {
+    "canPlayType": "probably",
+    "events": [],
+    "loadedmetadata": "loadedmetadata",
+    "duration": null,
+    "w": 320,
+    "h": 240,
+    "play": "ok",
+    "t_after_play": 1.960025,
+    "seeked": "seeked",
+    "t_after_seek": 7.5,
+    "error": null
+   },
+   "mse": {
+    "isTypeSupported": true,
+    "append": "error",
+    "sbErr": "SourceBuffer error event",
+    "elError": null,
+    "buffered": [
+     [
+      0,
+      9.776
+     ]
+    ],
+    "readyState": "ended",
+    "play": "rejected: The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22",
+    "t_after_play": 0,
+    "seeked": "timeout",
+    "t_after_seek": 7.5,
+    "elError2": "MediaError code=3 msg=\"PipelineStatus::CHUNK_DEMUXER_ERROR_APPEND_FAILED: RunSegmentParserLoop: stream parsing failed. append_window_start=0 append_window_end=inf\""
+   },
+   "medialog": [
+    "warning: Failed to reconcile encoded audio times with decoded output.",
+    "error: RunSegmentParserLoop: stream parsing failed. append_window_start=0 append_window_end=inf"
+   ]
+  }
+ }
+}

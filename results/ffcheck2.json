@@ -1,0 +1,2934 @@
+{
+ "ffx_2audio.webm": {
+  "file": "ffx_2audio.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "10.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "7a9db6847f68129f",
+  "frames": 1252,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "frames_identical": true
+ },
+ "ffx_2audio__A_end.webm": {
+  "file": "ffx_2audio__A_end.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ],
+   [
+    "attachment",
+    null,
+    "application/c2pa",
+    "content_credential.c2pa"
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "10.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "[in#0/matroska,webm @ 0xbd5018000] Could not find codec parameters for stream 3 (Attachment: none): unknown codec\nConsider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options",
+  "framemd5": "7a9db6847f68129f",
+  "frames": 1252,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "KEPT",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "ffx_2audio__A_end_noseek.webm": {
+  "file": "ffx_2audio__A_end_noseek.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "10.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "7a9db6847f68129f",
+  "frames": 1252,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "ffx_2audio__A_front.webm": {
+  "file": "ffx_2audio__A_front.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ],
+   [
+    "attachment",
+    null,
+    "application/c2pa",
+    "content_credential.c2pa"
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "10.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "[in#0/matroska,webm @ 0xc5f018000] Could not find codec parameters for stream 3 (Attachment: none): unknown codec\nConsider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options",
+  "framemd5": "7a9db6847f68129f",
+  "frames": 1252,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "KEPT",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "ffx_2audio__B_tags.webm": {
+  "file": "ffx_2audio__B_tags.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "10.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "7a9db6847f68129f",
+  "frames": 1252,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "ffx_2audio__B_tags_end.webm": {
+  "file": "ffx_2audio__B_tags_end.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "10.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "7a9db6847f68129f",
+  "frames": 1252,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "ffx_2audio__C_unknown.webm": {
+  "file": "ffx_2audio__C_unknown.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "10.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "7a9db6847f68129f",
+  "frames": 1252,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "ffx_2audio__D_void.webm": {
+  "file": "ffx_2audio__D_void.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "10.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "7a9db6847f68129f",
+  "frames": 1252,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "ffx_multi.webm": {
+  "file": "ffx_multi.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ],
+   [
+    "subtitle",
+    "webvtt",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "10.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "7a9db6847f68129f",
+  "frames": 1252,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "frames_identical": true
+ },
+ "ffx_multi__A_end.webm": {
+  "file": "ffx_multi__A_end.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ],
+   [
+    "subtitle",
+    "webvtt",
+    null,
+    null
+   ],
+   [
+    "attachment",
+    null,
+    "application/c2pa",
+    "content_credential.c2pa"
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "10.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "[in#0/matroska,webm @ 0x985014000] Could not find codec parameters for stream 4 (Attachment: none): unknown codec\nConsider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options",
+  "framemd5": "7a9db6847f68129f",
+  "frames": 1252,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "KEPT",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "ffx_multi__A_end_noseek.webm": {
+  "file": "ffx_multi__A_end_noseek.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ],
+   [
+    "subtitle",
+    "webvtt",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "10.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "7a9db6847f68129f",
+  "frames": 1252,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "ffx_multi__A_front.webm": {
+  "file": "ffx_multi__A_front.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ],
+   [
+    "subtitle",
+    "webvtt",
+    null,
+    null
+   ],
+   [
+    "attachment",
+    null,
+    "application/c2pa",
+    "content_credential.c2pa"
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "10.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "[in#0/matroska,webm @ 0x980c14000] Could not find codec parameters for stream 4 (Attachment: none): unknown codec\nConsider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options",
+  "framemd5": "7a9db6847f68129f",
+  "frames": 1252,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "KEPT",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "ffx_multi__B_tags.webm": {
+  "file": "ffx_multi__B_tags.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ],
+   [
+    "subtitle",
+    "webvtt",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "10.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "7a9db6847f68129f",
+  "frames": 1252,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "ffx_multi__B_tags_end.webm": {
+  "file": "ffx_multi__B_tags_end.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ],
+   [
+    "subtitle",
+    "webvtt",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "10.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "7a9db6847f68129f",
+  "frames": 1252,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "ffx_multi__C_unknown.webm": {
+  "file": "ffx_multi__C_unknown.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ],
+   [
+    "subtitle",
+    "webvtt",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "10.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "7a9db6847f68129f",
+  "frames": 1252,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "ffx_multi__D_void.webm": {
+  "file": "ffx_multi__D_void.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ],
+   [
+    "subtitle",
+    "webvtt",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "10.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "7a9db6847f68129f",
+  "frames": 1252,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "ffx_vp9_opus.webm": {
+  "file": "ffx_vp9_opus.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "10.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "82c74065fdd5dda0",
+  "frames": 751,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "frames_identical": true
+ },
+ "ffx_vp9_opus__A_end.webm": {
+  "file": "ffx_vp9_opus__A_end.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ],
+   [
+    "attachment",
+    null,
+    "application/c2pa",
+    "content_credential.c2pa"
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "10.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "[in#0/matroska,webm @ 0xad3018000] Could not find codec parameters for stream 2 (Attachment: none): unknown codec\nConsider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options",
+  "framemd5": "82c74065fdd5dda0",
+  "frames": 751,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "KEPT",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "ffx_vp9_opus__A_end_noseek.webm": {
+  "file": "ffx_vp9_opus__A_end_noseek.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "10.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "82c74065fdd5dda0",
+  "frames": 751,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "ffx_vp9_opus__A_front.webm": {
+  "file": "ffx_vp9_opus__A_front.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ],
+   [
+    "attachment",
+    null,
+    "application/c2pa",
+    "content_credential.c2pa"
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "10.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "[in#0/matroska,webm @ 0xadf018000] Could not find codec parameters for stream 2 (Attachment: none): unknown codec\nConsider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options",
+  "framemd5": "82c74065fdd5dda0",
+  "frames": 751,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "KEPT",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "ffx_vp9_opus__B_tags.webm": {
+  "file": "ffx_vp9_opus__B_tags.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "10.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "82c74065fdd5dda0",
+  "frames": 751,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "ffx_vp9_opus__B_tags_end.webm": {
+  "file": "ffx_vp9_opus__B_tags_end.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "10.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "82c74065fdd5dda0",
+  "frames": 751,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "ffx_vp9_opus__C_unknown.webm": {
+  "file": "ffx_vp9_opus__C_unknown.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "10.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "82c74065fdd5dda0",
+  "frames": 751,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "ffx_vp9_opus__D_void.webm": {
+  "file": "ffx_vp9_opus__D_void.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "10.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "82c74065fdd5dda0",
+  "frames": 751,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "ffx_vp9_opus_cf.webm": {
+  "file": "ffx_vp9_opus_cf.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "10.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "82c74065fdd5dda0",
+  "frames": 751,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "frames_identical": true
+ },
+ "ffx_vp9_opus_cf__A_end.webm": {
+  "file": "ffx_vp9_opus_cf__A_end.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ],
+   [
+    "attachment",
+    null,
+    "application/c2pa",
+    "content_credential.c2pa"
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "10.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "[in#0/matroska,webm @ 0xb58c14000] Could not find codec parameters for stream 2 (Attachment: none): unknown codec\nConsider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options",
+  "framemd5": "82c74065fdd5dda0",
+  "frames": 751,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "KEPT",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "ffx_vp9_opus_cf__A_end_noseek.webm": {
+  "file": "ffx_vp9_opus_cf__A_end_noseek.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "10.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "82c74065fdd5dda0",
+  "frames": 751,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "ffx_vp9_opus_cf__A_front.webm": {
+  "file": "ffx_vp9_opus_cf__A_front.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ],
+   [
+    "attachment",
+    null,
+    "application/c2pa",
+    "content_credential.c2pa"
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "10.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "[in#0/matroska,webm @ 0x771018000] Could not find codec parameters for stream 2 (Attachment: none): unknown codec\nConsider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options",
+  "framemd5": "82c74065fdd5dda0",
+  "frames": 751,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "KEPT",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "ffx_vp9_opus_cf__B_tags.webm": {
+  "file": "ffx_vp9_opus_cf__B_tags.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "10.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "82c74065fdd5dda0",
+  "frames": 751,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "ffx_vp9_opus_cf__B_tags_end.webm": {
+  "file": "ffx_vp9_opus_cf__B_tags_end.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "10.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "82c74065fdd5dda0",
+  "frames": 751,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "ffx_vp9_opus_cf__C_unknown.webm": {
+  "file": "ffx_vp9_opus_cf__C_unknown.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "10.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "82c74065fdd5dda0",
+  "frames": 751,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "ffx_vp9_opus_cf__D_void.webm": {
+  "file": "ffx_vp9_opus_cf__D_void.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "10.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "82c74065fdd5dda0",
+  "frames": 751,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "long1080_vp9_opus.webm": {
+  "file": "long1080_vp9_opus.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "120.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "75a6632baa1a3ab0",
+  "frames": 9001,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "frames_identical": true
+ },
+ "long1080_vp9_opus__A_end.webm": {
+  "file": "long1080_vp9_opus__A_end.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ],
+   [
+    "attachment",
+    null,
+    "application/c2pa",
+    "content_credential.c2pa"
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "120.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "[in#0/matroska,webm @ 0x8c1014000] Could not find codec parameters for stream 2 (Attachment: none): unknown codec\nConsider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options",
+  "framemd5": "75a6632baa1a3ab0",
+  "frames": 9001,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "KEPT",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "long1080_vp9_opus__A_end_300k.webm": {
+  "file": "long1080_vp9_opus__A_end_300k.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ],
+   [
+    "attachment",
+    null,
+    "application/c2pa",
+    "content_credential.c2pa"
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "120.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "[in#0/matroska,webm @ 0x8bf014000] Could not find codec parameters for stream 2 (Attachment: none): unknown codec\nConsider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options",
+  "framemd5": "75a6632baa1a3ab0",
+  "frames": 9001,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "KEPT",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "long1080_vp9_opus__B_tags_end.webm": {
+  "file": "long1080_vp9_opus__B_tags_end.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "120.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "75a6632baa1a3ab0",
+  "frames": 9001,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "mm_vp9_opus.webm": {
+  "file": "mm_vp9_opus.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "ENCODER",
+   "creation_time"
+  ],
+  "duration": "10.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "82c74065fdd5dda0",
+  "frames": 751,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "frames_identical": true
+ },
+ "mm_vp9_opus__A_end.webm": {
+  "file": "mm_vp9_opus__A_end.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ],
+   [
+    "attachment",
+    null,
+    "application/c2pa",
+    "content_credential.c2pa"
+   ]
+  ],
+  "format_tags": [
+   "ENCODER",
+   "creation_time"
+  ],
+  "duration": "10.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "[in#0/matroska,webm @ 0xac9018000] Could not find codec parameters for stream 2 (Attachment: none): unknown codec\nConsider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options",
+  "framemd5": "82c74065fdd5dda0",
+  "frames": 751,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "KEPT",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "mm_vp9_opus__A_end_noseek.webm": {
+  "file": "mm_vp9_opus__A_end_noseek.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "ENCODER",
+   "creation_time"
+  ],
+  "duration": "10.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "82c74065fdd5dda0",
+  "frames": 751,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "mm_vp9_opus__A_front.webm": {
+  "file": "mm_vp9_opus__A_front.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ],
+   [
+    "attachment",
+    null,
+    "application/c2pa",
+    "content_credential.c2pa"
+   ]
+  ],
+  "format_tags": [
+   "ENCODER",
+   "creation_time"
+  ],
+  "duration": "10.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "[in#0/matroska,webm @ 0x80b018000] Could not find codec parameters for stream 2 (Attachment: none): unknown codec\nConsider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options",
+  "framemd5": "82c74065fdd5dda0",
+  "frames": 751,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "KEPT",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "mm_vp9_opus__B_tags.webm": {
+  "file": "mm_vp9_opus__B_tags.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "ENCODER",
+   "creation_time"
+  ],
+  "duration": "10.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "82c74065fdd5dda0",
+  "frames": 751,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "mm_vp9_opus__B_tags_end.webm": {
+  "file": "mm_vp9_opus__B_tags_end.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "ENCODER",
+   "creation_time"
+  ],
+  "duration": "10.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "82c74065fdd5dda0",
+  "frames": 751,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "mm_vp9_opus__C_unknown.webm": {
+  "file": "mm_vp9_opus__C_unknown.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "ENCODER",
+   "creation_time"
+  ],
+  "duration": "10.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "82c74065fdd5dda0",
+  "frames": 751,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "mm_vp9_opus__D_void.webm": {
+  "file": "mm_vp9_opus__D_void.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "ENCODER",
+   "creation_time"
+  ],
+  "duration": "10.008000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "82c74065fdd5dda0",
+  "frames": 751,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "mr_vp8_opus.webm": {
+  "file": "mr_vp8_opus.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp8",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "encoder"
+  ],
+  "duration": null,
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "014acd40e553a132",
+  "frames": 427,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "frames_identical": true
+ },
+ "mr_vp8_opusF.webm": {
+  "file": "mr_vp8_opusF.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp8",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "encoder"
+  ],
+  "duration": null,
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "014acd40e553a132",
+  "frames": 427,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "frames_identical": true
+ },
+ "mr_vp8_opusF__A_end.webm": {
+  "file": "mr_vp8_opusF__A_end.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp8",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ],
+   [
+    "attachment",
+    null,
+    "application/c2pa",
+    "content_credential.c2pa"
+   ]
+  ],
+  "format_tags": [
+   "encoder"
+  ],
+  "duration": null,
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "[in#0/matroska,webm @ 0x7bb018000] Could not find codec parameters for stream 2 (Attachment: none): unknown codec\nConsider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options",
+  "framemd5": "014acd40e553a132",
+  "frames": 427,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "KEPT",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "mr_vp8_opusF__A_end_noseek.webm": {
+  "file": "mr_vp8_opusF__A_end_noseek.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp8",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "encoder"
+  ],
+  "duration": null,
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "014acd40e553a132",
+  "frames": 427,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "mr_vp8_opusF__A_front.webm": {
+  "file": "mr_vp8_opusF__A_front.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp8",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ],
+   [
+    "attachment",
+    null,
+    "application/c2pa",
+    "content_credential.c2pa"
+   ]
+  ],
+  "format_tags": [
+   "encoder"
+  ],
+  "duration": null,
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "[in#0/matroska,webm @ 0xb5f018000] Could not find codec parameters for stream 2 (Attachment: none): unknown codec\nConsider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options",
+  "framemd5": "014acd40e553a132",
+  "frames": 427,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "KEPT",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "mr_vp8_opusF__B_tags_end.webm": {
+  "file": "mr_vp8_opusF__B_tags_end.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp8",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "encoder"
+  ],
+  "duration": null,
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "014acd40e553a132",
+  "frames": 427,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "mr_vp8_opusF__C_unknown.webm": {
+  "file": "mr_vp8_opusF__C_unknown.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp8",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "encoder"
+  ],
+  "duration": null,
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "014acd40e553a132",
+  "frames": 427,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "mr_vp8_opusF__D_void.webm": {
+  "file": "mr_vp8_opusF__D_void.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp8",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "encoder"
+  ],
+  "duration": null,
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "014acd40e553a132",
+  "frames": 427,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "mr_vp8_opus__U_A_append.webm": {
+  "file": "mr_vp8_opus__U_A_append.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp8",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "encoder"
+  ],
+  "duration": null,
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "014acd40e553a132",
+  "frames": 427,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "mr_vp8_opus__U_B_append.webm": {
+  "file": "mr_vp8_opus__U_B_append.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp8",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "encoder"
+  ],
+  "duration": null,
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "014acd40e553a132",
+  "frames": 427,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "mr_vp8_opus__U_C_append.webm": {
+  "file": "mr_vp8_opus__U_C_append.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp8",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "encoder"
+  ],
+  "duration": null,
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "014acd40e553a132",
+  "frames": 427,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "mr_vp9_opus.webm": {
+  "file": "mr_vp9_opus.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "encoder"
+  ],
+  "duration": null,
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "cd6ba0dedca23ba0",
+  "frames": 436,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "frames_identical": true
+ },
+ "mr_vp9_opusF.webm": {
+  "file": "mr_vp9_opusF.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "encoder"
+  ],
+  "duration": null,
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "cd6ba0dedca23ba0",
+  "frames": 436,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "frames_identical": true
+ },
+ "mr_vp9_opusF__A_end.webm": {
+  "file": "mr_vp9_opusF__A_end.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ],
+   [
+    "attachment",
+    null,
+    "application/c2pa",
+    "content_credential.c2pa"
+   ]
+  ],
+  "format_tags": [
+   "encoder"
+  ],
+  "duration": null,
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "[in#0/matroska,webm @ 0xcaac14000] Could not find codec parameters for stream 2 (Attachment: none): unknown codec\nConsider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options",
+  "framemd5": "cd6ba0dedca23ba0",
+  "frames": 436,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "KEPT",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "mr_vp9_opusF__A_end_noseek.webm": {
+  "file": "mr_vp9_opusF__A_end_noseek.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "encoder"
+  ],
+  "duration": null,
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "cd6ba0dedca23ba0",
+  "frames": 436,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "mr_vp9_opusF__A_front.webm": {
+  "file": "mr_vp9_opusF__A_front.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ],
+   [
+    "attachment",
+    null,
+    "application/c2pa",
+    "content_credential.c2pa"
+   ]
+  ],
+  "format_tags": [
+   "encoder"
+  ],
+  "duration": null,
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "[in#0/matroska,webm @ 0x8b7018000] Could not find codec parameters for stream 2 (Attachment: none): unknown codec\nConsider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options",
+  "framemd5": "cd6ba0dedca23ba0",
+  "frames": 436,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "KEPT",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "mr_vp9_opusF__B_tags_end.webm": {
+  "file": "mr_vp9_opusF__B_tags_end.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "encoder"
+  ],
+  "duration": null,
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "cd6ba0dedca23ba0",
+  "frames": 436,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "mr_vp9_opusF__C_unknown.webm": {
+  "file": "mr_vp9_opusF__C_unknown.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "encoder"
+  ],
+  "duration": null,
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "cd6ba0dedca23ba0",
+  "frames": 436,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "mr_vp9_opusF__D_void.webm": {
+  "file": "mr_vp9_opusF__D_void.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "encoder"
+  ],
+  "duration": null,
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "cd6ba0dedca23ba0",
+  "frames": 436,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "mr_vp9_opusR.webm": {
+  "file": "mr_vp9_opusR.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "9.974000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "cd6ba0dedca23ba0",
+  "frames": 436,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "frames_identical": true
+ },
+ "mr_vp9_opusR__A_end.webm": {
+  "file": "mr_vp9_opusR__A_end.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ],
+   [
+    "attachment",
+    null,
+    "application/c2pa",
+    "content_credential.c2pa"
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "9.974000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "[in#0/matroska,webm @ 0xaf1018000] Could not find codec parameters for stream 2 (Attachment: none): unknown codec\nConsider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options",
+  "framemd5": "cd6ba0dedca23ba0",
+  "frames": 436,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "KEPT",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "mr_vp9_opusR__A_end_noseek.webm": {
+  "file": "mr_vp9_opusR__A_end_noseek.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "9.974000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "cd6ba0dedca23ba0",
+  "frames": 436,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "mr_vp9_opusR__A_front.webm": {
+  "file": "mr_vp9_opusR__A_front.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ],
+   [
+    "attachment",
+    null,
+    "application/c2pa",
+    "content_credential.c2pa"
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "9.974000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "[in#0/matroska,webm @ 0xbc9018000] Could not find codec parameters for stream 2 (Attachment: none): unknown codec\nConsider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options",
+  "framemd5": "cd6ba0dedca23ba0",
+  "frames": 436,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "KEPT",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "mr_vp9_opusR__B_tags.webm": {
+  "file": "mr_vp9_opusR__B_tags.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "9.974000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "cd6ba0dedca23ba0",
+  "frames": 436,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "mr_vp9_opusR__B_tags_end.webm": {
+  "file": "mr_vp9_opusR__B_tags_end.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "9.974000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "cd6ba0dedca23ba0",
+  "frames": 436,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "mr_vp9_opusR__C_unknown.webm": {
+  "file": "mr_vp9_opusR__C_unknown.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "9.974000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "cd6ba0dedca23ba0",
+  "frames": 436,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "mr_vp9_opusR__D_void.webm": {
+  "file": "mr_vp9_opusR__D_void.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "ENCODER"
+  ],
+  "duration": "9.974000",
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "cd6ba0dedca23ba0",
+  "frames": 436,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "mr_vp9_opus__U_A_append.webm": {
+  "file": "mr_vp9_opus__U_A_append.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "encoder"
+  ],
+  "duration": null,
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "cd6ba0dedca23ba0",
+  "frames": 436,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "mr_vp9_opus__U_B_append.webm": {
+  "file": "mr_vp9_opus__U_B_append.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "encoder"
+  ],
+  "duration": null,
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "cd6ba0dedca23ba0",
+  "frames": 436,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ },
+ "mr_vp9_opus__U_C_append.webm": {
+  "file": "mr_vp9_opus__U_C_append.webm",
+  "ffprobe_rc": 0,
+  "ffprobe_err": "",
+  "streams": [
+   [
+    "video",
+    "vp9",
+    null,
+    null
+   ],
+   [
+    "audio",
+    "opus",
+    null,
+    null
+   ]
+  ],
+  "format_tags": [
+   "encoder"
+  ],
+  "duration": null,
+  "decode_rc": 0,
+  "decode_err": "",
+  "decode_warn": "",
+  "framemd5": "cd6ba0dedca23ba0",
+  "frames": 436,
+  "seek_decode_rc": 0,
+  "seek_err": "",
+  "remux": {
+   "webm_map0": "dropped",
+   "webm_default": "dropped",
+   "mkv_map0": "dropped",
+   "mkv_default": "dropped"
+  },
+  "frames_identical": true
+ }
+}
