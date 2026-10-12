@@ -69,3 +69,7 @@ mkvmerge -> .webm                          12/12          0/12         12/12    
 The per-file browser, VLC, ffmpeg, MKVToolNix and mkvalidator results are in the JSON files next to it, and `results/sum2.txt` has the browser details.
 
 Note that any remux rewrites the bytes the manifest's hash covers, so a manifest that survives one reports a mismatch.
+
+## License
+
+Licensed under either the [MIT license](LICENSE-MIT) or the [Apache License, Version 2.0](LICENSE-APACHE), at your option. This covers the scripts, the synthetic test media and the results.
